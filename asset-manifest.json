@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/jcs-lol/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/jcs-lol/static/js/main.9a2bd3dc.chunk.js",
-    "main.js.map": "/jcs-lol/static/js/main.9a2bd3dc.chunk.js.map",
-    "runtime-main.js": "/jcs-lol/static/js/runtime-main.b22fb166.js",
-    "runtime-main.js.map": "/jcs-lol/static/js/runtime-main.b22fb166.js.map",
-    "static/js/2.86b574e9.chunk.js": "/jcs-lol/static/js/2.86b574e9.chunk.js",
-    "static/js/2.86b574e9.chunk.js.map": "/jcs-lol/static/js/2.86b574e9.chunk.js.map",
-    "static/js/3.ecfe7db2.chunk.js": "/jcs-lol/static/js/3.ecfe7db2.chunk.js",
-    "static/js/3.ecfe7db2.chunk.js.map": "/jcs-lol/static/js/3.ecfe7db2.chunk.js.map",
+    "main.css": "/jcs-lol/static/css/main.c5a3ee5c.chunk.css",
+    "main.js": "/jcs-lol/static/js/main.982f97f0.chunk.js",
+    "main.js.map": "/jcs-lol/static/js/main.982f97f0.chunk.js.map",
+    "runtime-main.js": "/jcs-lol/static/js/runtime-main.1866b74d.js",
+    "runtime-main.js.map": "/jcs-lol/static/js/runtime-main.1866b74d.js.map",
+    "static/js/2.ef7587c2.chunk.js": "/jcs-lol/static/js/2.ef7587c2.chunk.js",
+    "static/js/2.ef7587c2.chunk.js.map": "/jcs-lol/static/js/2.ef7587c2.chunk.js.map",
     "index.html": "/jcs-lol/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/jcs-lol/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.86b574e9.chunk.js.LICENSE.txt": "/jcs-lol/static/js/2.86b574e9.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/jcs-lol/static/media/logo.6ce24c58.svg"
+    "precache-manifest.ff23132d0e13479909ac33168ba6f27b.js": "/jcs-lol/precache-manifest.ff23132d0e13479909ac33168ba6f27b.js",
+    "service-worker.js": "/jcs-lol/service-worker.js",
+    "static/css/main.c5a3ee5c.chunk.css.map": "/jcs-lol/static/css/main.c5a3ee5c.chunk.css.map",
+    "static/js/2.ef7587c2.chunk.js.LICENSE.txt": "/jcs-lol/static/js/2.ef7587c2.chunk.js.LICENSE.txt",
+    "static/media/home_page_bkg.jpg": "/jcs-lol/static/media/home_page_bkg.18b27fea.jpg",
+    "static/media/logo.png": "/jcs-lol/static/media/logo.2fa3cb01.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b22fb166.js",
-    "static/js/2.86b574e9.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.9a2bd3dc.chunk.js"
+    "static/js/runtime-main.1866b74d.js",
+    "static/js/2.ef7587c2.chunk.js",
+    "static/css/main.c5a3ee5c.chunk.css",
+    "static/js/main.982f97f0.chunk.js"
   ]
 }
