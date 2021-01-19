@@ -2,25 +2,24 @@ import React from "react";
 // @material-ui/core components
 import { makeStyles } from "@material-ui/core/styles";
 // core components
-import GridContainer from "components/Grid/GridContainer.js";
-import GridItem from "components/Grid/GridItem.js";
 
-import styles from "assets/jss/material-kit-react/views/homePageSections/aboutStyle.js";
+import styles from "assets/jss/material-kit-react/views/homePageSectionsStyle.js";
 
 const useStyles = makeStyles(styles);
 
-export default function ProductSection() {
+export default function AboutSection() {
   const classes = useStyles();
   return (
     <div className={classes.section}>
-      <GridContainer justify="center">
-        <GridItem xs={12} sm={12} md={8}>
-          <h2 className={classes.title}>About</h2>
-          <h5 className={classes.description}>
-            TODO: Paragraph about JCS tourneys.
-          </h5>
-        </GridItem>
-      </GridContainer>
+      <h2 className={classes.title}>About</h2>
+      <h5 className={classes.description}>
+        JCS started in 2019, with its first season in the winter term. 
+        For the past 3 terms, UWCCF has been hosting in-house League of Legends tournaments. 
+        This platform allows players and spectators to browse tournament information, schedules, game results, and game vods.
+        <br/>
+        <br/>
+      </h5>
+      <a className={classes.link} href="https://www.twitch.tv/jcs_official" target="_blank">TWITCH</a>
     </div>
   );
 }

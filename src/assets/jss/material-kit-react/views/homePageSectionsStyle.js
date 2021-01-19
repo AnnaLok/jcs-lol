@@ -1,9 +1,8 @@
 import { cardTitle, title } from "assets/jss/material-kit-react.js";
-import imagesStyle from "assets/jss/material-kit-react/imagesStyles.js";
 
-const teamStyle = {
+const homePageSectionsStyle = {
   section: {
-    padding: "70px 0",
+    padding: "32px 0",
     textAlign: "center"
   },
   title: {
@@ -13,17 +12,17 @@ const teamStyle = {
     minHeight: "32px",
     textDecoration: "none"
   },
-  ...imagesStyle,
-  itemGrid: {
-    marginLeft: "auto",
-    marginRight: "auto"
+  images: {
+    width: 1000, 
+    height: 400
   },
   cardTitle,
   smallTitle: {
     color: "#6c757d"
   },
   description: {
-    color: "#999"
+    color: "#999",
+    textAlign: "left"
   },
   justifyCenter: {
     justifyContent: "center !important"
@@ -44,4 +43,4 @@ const teamStyle = {
   }
 };
 
-export default teamStyle;
+export default homePageSectionsStyle;

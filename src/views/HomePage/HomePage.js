@@ -50,7 +50,7 @@ export default function HomePage(props) {
               <br />
               <Link to={"/"}>
                 <Button className={classes.button}
-                  color="info"
+                  color="primary"
                   size="lg"
                   href="/"
                   target="_blank"
@@ -61,7 +61,7 @@ export default function HomePage(props) {
               </Link>
               <Link to={"/"}>
                 <Button className={classes.button}
-                  color="info"
+                  color="primary"
                   size="lg"
                   href="/"
                   target="_blank"
