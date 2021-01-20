@@ -12,7 +12,6 @@ import GridItem from "components/Grid/GridItem.js";
 import Button from "components/Button.js";
 import HeaderLinks from "components/Header/HeaderLinks.js";
 import Parallax from "components/Parallax.js";
-import SnackbarContent from "components/SnackbarContent.js";
 // styling
 import styles from "assets/jss/material-kit-react/views/homePage.js";
 // Sections for this page
@@ -61,7 +60,7 @@ export default function HomePage(props) {
                   Sign up
                 </Button>
               </Link>
-              <Link to={"/"}>
+              <Link to={"/touraments"}>
                 <Button className={classes.button}
                   color="primary"
                   size="lg"
