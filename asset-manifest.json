@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/jcs-lol/static/css/main.0949c065.chunk.css",
-    "main.js": "/jcs-lol/static/js/main.c1b55c6d.chunk.js",
-    "main.js.map": "/jcs-lol/static/js/main.c1b55c6d.chunk.js.map",
+    "main.js": "/jcs-lol/static/js/main.2366c49c.chunk.js",
+    "main.js.map": "/jcs-lol/static/js/main.2366c49c.chunk.js.map",
     "runtime-main.js": "/jcs-lol/static/js/runtime-main.1866b74d.js",
     "runtime-main.js.map": "/jcs-lol/static/js/runtime-main.1866b74d.js.map",
-    "static/js/2.1ad3ecf6.chunk.js": "/jcs-lol/static/js/2.1ad3ecf6.chunk.js",
-    "static/js/2.1ad3ecf6.chunk.js.map": "/jcs-lol/static/js/2.1ad3ecf6.chunk.js.map",
+    "static/js/2.bccb1e89.chunk.js": "/jcs-lol/static/js/2.bccb1e89.chunk.js",
+    "static/js/2.bccb1e89.chunk.js.map": "/jcs-lol/static/js/2.bccb1e89.chunk.js.map",
     "index.html": "/jcs-lol/index.html",
-    "precache-manifest.b50df4214e6cabdfa177973cb9961186.js": "/jcs-lol/precache-manifest.b50df4214e6cabdfa177973cb9961186.js",
+    "precache-manifest.5cf3ccd53214b10e0390ac2fcc78c0f3.js": "/jcs-lol/precache-manifest.5cf3ccd53214b10e0390ac2fcc78c0f3.js",
     "service-worker.js": "/jcs-lol/service-worker.js",
     "static/css/main.0949c065.chunk.css.map": "/jcs-lol/static/css/main.0949c065.chunk.css.map",
-    "static/js/2.1ad3ecf6.chunk.js.LICENSE.txt": "/jcs-lol/static/js/2.1ad3ecf6.chunk.js.LICENSE.txt",
+    "static/js/2.bccb1e89.chunk.js.LICENSE.txt": "/jcs-lol/static/js/2.bccb1e89.chunk.js.LICENSE.txt",
     "static/media/home_page_bkg.jpg": "/jcs-lol/static/media/home_page_bkg.18b27fea.jpg",
     "static/media/logo.png": "/jcs-lol/static/media/logo.2fa3cb01.png",
     "static/media/uwccf1.png": "/jcs-lol/static/media/uwccf1.d0aab74b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1866b74d.js",
-    "static/js/2.1ad3ecf6.chunk.js",
+    "static/js/2.bccb1e89.chunk.js",
     "static/css/main.0949c065.chunk.css",
-    "static/js/main.c1b55c6d.chunk.js"
+    "static/js/main.2366c49c.chunk.js"
   ]
 }
