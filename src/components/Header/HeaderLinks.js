@@ -20,12 +20,12 @@ export default function HeaderLinks(props) {
         </Link>
       </ListItem>
       <ListItem className={classes.listItem}>
-        <Link to={"/"} className={classes.navLink}>
+        <Link to={"/rules"} className={classes.navLink}>
           Rules
         </Link>
       </ListItem>
       <ListItem className={classes.listItem}>
-        <Link to={"/"} className={classes.navLink}>
+        <Link to={"/sign-up"} className={classes.navLink}>
             Sign Up
         </Link>
       </ListItem>

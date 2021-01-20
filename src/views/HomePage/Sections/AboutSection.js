@@ -19,7 +19,7 @@ export default function AboutSection() {
         <br/>
         <br/>
       </h5>
-      <a className={classes.link} href="https://www.twitch.tv/jcs_official" target="_blank">TWITCH</a>
+      <a href="https://www.twitch.tv/jcs_official" target="_blank">TWITCH</a>
     </div>
   );
 }

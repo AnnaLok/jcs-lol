@@ -33,7 +33,9 @@ export default function UWCCFSection() {
       <br/>
       <a href="https://www.uwccf.com" target="_blank">OUR WEBSITE</a>
       <br/>
-      <a href="https://www.facebook.com/groups/uwaterlooccf" target="_blank">FACEBOOK</a>
+      <a href="https://www.facebook.com/groups/uwaterlooccf" target="_blank">FACEBOOK - uwccf</a>
+      <br/>      
+      <a href="https://www.facebook.com/groups/uwccfaux" target="_blank">FACEBOOK - CCF AUX</a>
       <br/>
       <a href="https://www.instagram.com/uwccf" target="_blank">INSTAGRAM</a>
       <br/>
