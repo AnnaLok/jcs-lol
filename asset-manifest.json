@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/jcs-lol/static/css/main.0949c065.chunk.css",
-    "main.js": "/jcs-lol/static/js/main.0565aa48.chunk.js",
-    "main.js.map": "/jcs-lol/static/js/main.0565aa48.chunk.js.map",
+    "main.js": "/jcs-lol/static/js/main.5bbcbe12.chunk.js",
+    "main.js.map": "/jcs-lol/static/js/main.5bbcbe12.chunk.js.map",
     "runtime-main.js": "/jcs-lol/static/js/runtime-main.1866b74d.js",
     "runtime-main.js.map": "/jcs-lol/static/js/runtime-main.1866b74d.js.map",
     "static/js/2.76f7336a.chunk.js": "/jcs-lol/static/js/2.76f7336a.chunk.js",
     "static/js/2.76f7336a.chunk.js.map": "/jcs-lol/static/js/2.76f7336a.chunk.js.map",
     "index.html": "/jcs-lol/index.html",
-    "precache-manifest.4007e56898c9c171701ad4447d5e9a29.js": "/jcs-lol/precache-manifest.4007e56898c9c171701ad4447d5e9a29.js",
+    "precache-manifest.cf2e28b0ce6cf4d74d0e00f6104f0c54.js": "/jcs-lol/precache-manifest.cf2e28b0ce6cf4d74d0e00f6104f0c54.js",
     "service-worker.js": "/jcs-lol/service-worker.js",
     "static/css/main.0949c065.chunk.css.map": "/jcs-lol/static/css/main.0949c065.chunk.css.map",
     "static/js/2.76f7336a.chunk.js.LICENSE.txt": "/jcs-lol/static/js/2.76f7336a.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.1866b74d.js",
     "static/js/2.76f7336a.chunk.js",
     "static/css/main.0949c065.chunk.css",
-    "static/js/main.0565aa48.chunk.js"
+    "static/js/main.5bbcbe12.chunk.js"
   ]
 }
