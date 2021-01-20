@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c69b970be689f56ff84716def4b1452e",
+    "revision": "927aba58716df5f5c78a8bb736f119f1",
     "url": "/jcs-lol/index.html"
   },
   {
-    "revision": "2d9b1fa16d32fa11b51e",
+    "revision": "597f61ae3538f26f6f63",
     "url": "/jcs-lol/static/css/main.0949c065.chunk.css"
   },
   {
-    "revision": "7a1ea1f7487080bceb09",
-    "url": "/jcs-lol/static/js/2.bccb1e89.chunk.js"
+    "revision": "364b582fa349416d457a",
+    "url": "/jcs-lol/static/js/2.76f7336a.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/jcs-lol/static/js/2.bccb1e89.chunk.js.LICENSE.txt"
+    "url": "/jcs-lol/static/js/2.76f7336a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d9b1fa16d32fa11b51e",
-    "url": "/jcs-lol/static/js/main.2366c49c.chunk.js"
+    "revision": "597f61ae3538f26f6f63",
+    "url": "/jcs-lol/static/js/main.66d3ee81.chunk.js"
   },
   {
     "revision": "e1c39b85dc6a26fb015e",
