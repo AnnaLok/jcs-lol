@@ -12,6 +12,7 @@ import GridItem from "components/Grid/GridItem.js";
 import Button from "components/Button.js";
 import HeaderLinks from "components/Header/HeaderLinks.js";
 import Parallax from "components/Parallax.js";
+import SnackbarContent from "components/SnackbarContent.js";
 // styling
 import styles from "assets/jss/material-kit-react/views/homePage.js";
 // Sections for this page
@@ -26,6 +27,7 @@ const useStyles = makeStyles(styles);
 export default function HomePage(props) {
   const classes = useStyles();
   const { ...rest } = props;
+
   return (
     <div>
       <Header
@@ -48,7 +50,7 @@ export default function HomePage(props) {
                 A for fun League of Legends tournament hosted by UWCCF.
               </h4>
               <br />
-              <Link to={"/"}>
+              <Link to={"/sign-up"}>
                 <Button className={classes.button}
                   color="primary"
                   size="lg"

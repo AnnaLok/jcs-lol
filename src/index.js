@@ -8,6 +8,7 @@ import "assets/scss/material-kit-react.scss?v=1.9.0";
 import HomePage from "views/HomePage/HomePage.js";
 import RulesPage from "views/RulesPage.js";
 import SignUpPage from "views/SignUpPage.js";
+import TournamentsPage from "views/TournamentsPage.js"
 
 var hist = createBrowserHistory();
 
@@ -16,7 +17,8 @@ ReactDOM.render(
     <Switch>
       <Route path="/rules" component={RulesPage} />
       <Route path="/sign-up" component={SignUpPage} />
-      <Route path="/" component={HomePage} />
+      <Route path="/tournaments" component={TournamentsPage} />
+      <Route path="/jcs-lol" component={HomePage} />
     </Switch>
   </Router>,
   document.getElementById("root")

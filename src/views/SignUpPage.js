@@ -39,11 +39,13 @@ export default function SignUpPage(props) {
           <h3 className={classes.subtitle}>SIGN UP CLOSED</h3>
           <h5 className={classes.description}>
             Sorry, it is too late to sign up for the W2021 tournament because it has already finished. 
-            However, you can check out the game vods on our 
-            <a href="https://www.twitch.tv/jcs_official" target="_blank">Twitch.</a> 
+            However, you can check out the game vods from our past tournaments on 
+            our <a href="https://www.twitch.tv/jcs_official" target="_blank">Twitch.</a> 
             <br/>
             Stay tuned for the next JCS in S2021. Sign ups will be available right after W2021 term ends.
-            If you don't want to miss it, follow our  <a href="https://www.facebook.com/groups/uwccfaux" target="_blank">Facebook - CCF AUX</a> for announcements and updates. 
+            If you don't want to miss it, follow 
+            our <a href="https://www.facebook.com/groups/uwccfaux" target="_blank">Facebook - CCF AUX</a> for 
+            announcements and updates. 
           </h5>
           <h5 className={classes.description}>
             <ul>

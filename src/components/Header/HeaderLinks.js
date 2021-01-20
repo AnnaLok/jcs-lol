@@ -15,7 +15,7 @@ export default function HeaderLinks(props) {
   return (
     <List className={classes.list}>
       <ListItem className={classes.listItem}>
-        <Link to={"/"} className={classes.navLink}>
+        <Link to={"/jcs-lol"} className={classes.navLink}>
             Home
         </Link>
       </ListItem>
@@ -30,7 +30,7 @@ export default function HeaderLinks(props) {
         </Link>
       </ListItem>
       <ListItem className={classes.listItem}>
-        <Link to={"/"} className={classes.navLink}>
+        <Link to={"/tournaments"} className={classes.navLink}>
             Browse Tournaments
         </Link>
       </ListItem>
